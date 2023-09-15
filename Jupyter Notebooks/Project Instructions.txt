@@ -1,0 +1,29 @@
+# Project Overview
+
+(Provide a brief description of your project here, including the objectives, what kind of data you are working with, and what you aim to achieve with this project.)
+
+# File Descriptions
+
+## Notebook 1: Importing Data, Cleaning, Preprocessing and EDA
+- Description: This notebook contains the initial data import steps, data cleaning and preprocessing followed by Exploratory Data Analysis (EDA) to understand the underlying patterns in the data.
+- How to Run: (Instructions on how to run the notebook, including command lines or how to access it through a Jupyter Notebook interface)
+- Dependencies: (List of packages and software required to run the notebook, e.g., pandas, numpy, matplotlib)
+- References: Direct links to the source of the data
+
+## Notebook 2: Facebook Prophet Modeling
+- Description: This notebook contains the time series forecasting using the Facebook Prophet model. It includes the model training, evaluation, and visualization of the forecasts.
+- How to Run: (Instructions on how to run the notebook)
+- Dependencies: (List of packages and software required to run the notebook, e.g., fbprophet)
+
+## Notebook 3: Gated Recurrent Units (GRU) Modeling
+- Description: This notebook focuses on modeling using Gated Recurrent Units. It involves preparing the data for time series analysis, training the GRU model, and evaluating its performance.
+- How to Run: (Instructions on how to run the notebook)
+- Dependencies: (List of packages and software required to run the notebook, e.g., TensorFlow, Keras)
+
+
+# Contact Information
+
+email: alejandrojvilela@gmail.com
+linkedin: www.linkedin.com/in/alejandro-vilela
+
+Thank you for reviewing my project!
